@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\StudentTask\StudentTask\bin\Debug\net6.0\StudentTask.exe
+C:\Users\User\Desktop\StudentTask\StudentTask\bin\Debug\net6.0\StudentTask.deps.json
+C:\Users\User\Desktop\StudentTask\StudentTask\bin\Debug\net6.0\StudentTask.runtimeconfig.json
+C:\Users\User\Desktop\StudentTask\StudentTask\bin\Debug\net6.0\StudentTask.dll
+C:\Users\User\Desktop\StudentTask\StudentTask\bin\Debug\net6.0\StudentTask.pdb
+C:\Users\User\Desktop\StudentTask\StudentTask\obj\Debug\net6.0\StudentTask.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\StudentTask\StudentTask\obj\Debug\net6.0\StudentTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\StudentTask\StudentTask\obj\Debug\net6.0\StudentTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\StudentTask\StudentTask\obj\Debug\net6.0\StudentTask.AssemblyInfo.cs
+C:\Users\User\Desktop\StudentTask\StudentTask\obj\Debug\net6.0\StudentTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\StudentTask\StudentTask\obj\Debug\net6.0\StudentTask.dll
+C:\Users\User\Desktop\StudentTask\StudentTask\obj\Debug\net6.0\refint\StudentTask.dll
+C:\Users\User\Desktop\StudentTask\StudentTask\obj\Debug\net6.0\StudentTask.pdb
+C:\Users\User\Desktop\StudentTask\StudentTask\obj\Debug\net6.0\StudentTask.genruntimeconfig.cache
+C:\Users\User\Desktop\StudentTask\StudentTask\obj\Debug\net6.0\ref\StudentTask.dll
